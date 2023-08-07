@@ -29,6 +29,7 @@
     "react": "18.2.0",
     "react-i18next": "^12.2.0",
     "react-native": "0.71.4",
+    "react-native-config": "^1.5.1",
     "react-native-crypto-js": "^1.0.0",
     "react-native-device-info": "^10.6.0",
     "react-native-exit-app": "^1.1.0",
